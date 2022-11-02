@@ -21,18 +21,18 @@ window.Config = {
   ],
 
   // 是否显示监测站点的链接
-  ShowLink: true,
+  ShowLink: false,
 
   // 日志天数
   // 虽然免费版说仅保存60天日志，但测试好像API可以获取90天的
   // 不过时间不要设置太长，容易卡，接口请求也容易失败
-  CountDays: 60,
+  CountDays: 30,
 
   // 导航栏菜单
   Navi: [
     {
       text: '加入服务器官方QQ群',
-      url: 'https://qm.qq.com/cgi-bin/qm/qr?k=NDhum6MbaGg79L93onQ7HH6GIOjGqTVE&jump_from=webapi&authKey=R1iCkX5hSLPJbltDKbQmg65wzdUUPgoLgoSbddUACTLCBxUU9Zbgeyota/eV21o6'
+      url: 'https://qm.qq.com/cgi-bin/qm/qr?k=mulFUJbuJM6mOEGhiwhfIJuESuAnZLR9&jump_from=webapi&authKey=ReXJA7/k/oXF9IkYHZ2pnaYlmgo4p6QbGtM3UarcZMcj3e+8ZJwhf7GXZr8HFkD5'
     },
     {
       text: '博客主页',
