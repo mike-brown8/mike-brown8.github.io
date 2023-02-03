@@ -6,7 +6,7 @@
   <link href="https://mike-brown8.github.io/atom.xml" rel="self"/>
   
   <link href="https://mike-brown8.github.io/"/>
-  <updated>2023-01-18T03:30:20.543Z</updated>
+  <updated>2023-02-03T03:28:21.677Z</updated>
   <id>https://mike-brown8.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://mike-brown8.github.io/2022/12-28/MMTRServer/"/>
     <id>https://mike-brown8.github.io/2022/12-28/MMTRServer/</id>
     <published>2022-12-28T09:55:00.000Z</published>
-    <updated>2023-01-18T03:30:20.543Z</updated>
+    <updated>2023-02-03T03:28:21.677Z</updated>
     
     <content type="html"><![CDATA[<p><em><strong>在MineMTR服务器中感受MC中的MTR吧！</strong></em></p><span id="more"></span><h1 id="服务器图片-x2F-视频"><a href="#服务器图片-x2F-视频" class="headerlink" title="服务器图片&#x2F;视频"></a>服务器图片&#x2F;视频</h1><p><img src="https://s2.loli.net/2022/12/28/YxG3RKclCJtS4oi.png" alt="2022-10-29_21.32.44.png"></p><iframe src="//player.bilibili.com/player.html?bvid=BV1t24y127mf&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><iframe src="//player.bilibili.com/player.html?bvid=BV1nM41167Sz&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><h1 id="服务器重要事件一览表"><a href="#服务器重要事件一览表" class="headerlink" title="服务器重要事件一览表"></a>服务器重要事件一览表</h1><ul><li>2022年10月的某一天 腐竹突然有了架设一个服务器的想法</li><li>2022年10月31日下午 腐竹开始准备服务器的模组</li><li>2022年11月1日上午 服务器在简幻欢节点架设成功</li><li>2022年11月1日下午 服务器QQ群建立（朋友小服）</li><li>2022年11月4日 服务器出生点站建设完成</li><li>2022年11月12日 服务器遇到了崩溃 由于没有备份模组导致存档报废</li><li>2022年11月13日 服务器重新架设完成 版本更换为1.16.5 添加了备份模组</li><li>2022年11月13日 服务器出生点站建设完成</li><li>2022年11月27日 服务器第一个“梗”站（奇臭无比）建设完成 出生点接驳线开始建设</li><li>2022年12月4日 服务器第一个城市（A城）开始建设 通向A城的铁路开通</li><li>…</li></ul><h1 id="加入服务器"><a href="#加入服务器" class="headerlink" title="加入服务器"></a>加入服务器</h1><p>要加入本服务器，您需要先加入QQ群，然后在群和群公告中获取相关信息。<br>QQ群号：760156368<br><a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=rcAEXmbhl65Iudtn6arTzQbFCLuCXLA0&jump_from=webapi&authKey=aRPs7LLAZuF1QQ9PwQ47ynGeZVDNsDYHvG3UYxcrfr7ALSlf8gC9W9pvGiTUAiL2"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="MineMTR服务器" title="MineMTR服务器"></a></p>]]></content>
     
@@ -44,7 +44,7 @@
     <link href="https://mike-brown8.github.io/2022/07-12/SpeedyMTR/"/>
     <id>https://mike-brown8.github.io/2022/07-12/SpeedyMTR/</id>
     <published>2022-07-12T05:00:00.000Z</published>
-    <updated>2023-01-18T03:30:20.543Z</updated>
+    <updated>2023-02-03T03:28:21.677Z</updated>
     
     <content type="html"><![CDATA[<p><em><strong>在我的世界中体验铁路、渡船和缆车吧！</strong></em></p><p>Minecraft 1.19 Fabric 非魔改整合</p><span id="more"></span><p>高性能、高品质的 MTR 模组包。</p><p>在我 7 年前买的一台电脑上，它的运行速度非常快，高达 60FPS。</p><p>提供服务器，请参阅 GitLab(下方)。</p><p>如果您使用此 modpack 创建了服务器，欢迎通过此<a href="https://forms.office.com/r/AuT1e3xsWv">问卷</a>告诉我。</p><p>如果你发现了一个BUG，请通过<a href="mailto:nohuitou@outlook.com">电子邮件</a>联系我。（由于时差，我也许无法及时回复，请谅解）</p><p>一些模组来自 CurseForge，模组作者要求注明他们的官方页面。 我将在下面显示这些链接：</p><p><a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap">Xaero 的小地图</a></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p>客户端<br><a href="https://modrinth.com/modpack/mmtr">Modrinth<i class="fa fa-external-link" aria-hidden="true"></i></a></p><p>服务端<br><a href="https://gitlab.com/mike-brown8/modpack-auto-update/-/tree/main/Speedy%20MTR%20Servers">GitLab<i class="fa fa-external-link" aria-hidden="true"></i></a></p>]]></content>
     
@@ -72,7 +72,7 @@
     <link href="https://mike-brown8.github.io/2022/04-02/updaterMaker/"/>
     <id>https://mike-brown8.github.io/2022/04-02/updaterMaker/</id>
     <published>2022-04-02T16:00:00.000Z</published>
-    <updated>2023-01-18T03:30:20.543Z</updated>
+    <updated>2023-02-03T03:28:21.677Z</updated>
     
     <content type="html"><![CDATA[<p>更新工具现已发布<br>下载： <a href="https://gitlab.com/mike-brown8/modpack-auto-update/-/raw/main/Updater-Release.zip">本体</a> <a href="https://gitlab.com/mike-brown8/modpack-auto-update/-/raw/main/%E6%96%B0%E6%9B%B4%E6%96%B0%E5%B7%A5%E5%85%B7%E9%85%8D%E7%BD%AE%E5%88%B6%E4%BD%9C.zip">配置工具</a></p>]]></content>
     
@@ -92,7 +92,7 @@
     <link href="https://mike-brown8.github.io/2022/02-12/%E5%83%B5%E5%B0%B8%E7%94%9F%E5%AD%98/"/>
     <id>https://mike-brown8.github.io/2022/02-12/%E5%83%B5%E5%B0%B8%E7%94%9F%E5%AD%98/</id>
     <published>2022-02-12T02:57:22.000Z</published>
-    <updated>2023-01-18T03:30:20.543Z</updated>
+    <updated>2023-02-03T03:28:21.677Z</updated>
     
     <content type="html"><![CDATA[<p><em><strong>在僵尸的世界中生存下去吧</strong></em></p><p><em><strong>警告：本整合包弃坑，请见全新的整合包<a href="https://mike-brown8.github.io/2022/07-12/SpeedyMTR/">极速MTR</a></strong></em></p><p>Minecraft 1.16.5轻型魔改整合包</p><span id="more"></span><p><strong>最新信息</strong></p><h2 id="公告"><a href="#公告" class="headerlink" title="公告"></a>公告</h2><p>本整合包在MCMOD的审核已通过 <a href="https://www.mcmod.cn/modpack/405.html">点击查看词条<i class="fa fa-external-link" aria-hidden="true"></i></a></p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><blockquote><p>新版本已更新</p></blockquote><p>自动更新器<br><a href="https://gitlab.com/mike-brown8/modpack-auto-update/-/raw/main/Zombie.Survival.InsSet.zip">点击下载(1.3新版)<i class="fa fa-download" aria-hidden="true"></i></a></p><p>启动器自带联机功能</p><h2 id="登录验证"><a href="#登录验证" class="headerlink" title="登录验证"></a>登录验证</h2><p>Minecraft 正版登录</p><h2 id="压缩包文件列表"><a href="#压缩包文件列表" class="headerlink" title="压缩包文件列表"></a>压缩包文件列表</h2><p>1.3版如图：<br><img src="https://s2.loli.net/2022/04/22/rN7leuA31JWMnZ8.png" alt="MZS安装教程1.png"></p><h2 id="安装教程"><a href="#安装教程" class="headerlink" title="安装教程"></a>安装教程</h2><ol><li>下载最新版的安装包</li><li>解压到一个单独的文件夹</li><li>安装“基础包.zip”到启动器，起名为Zombie Survival</li><li>关闭启动器</li><li>运行“Updater.exe”</li><li>点击“更新并启动”，然后等待自动更新完成</li><li>再次运行“Updater.exe”</li><li>如果“更新并启动”变灰，则说明更新成功，否则请重做第6步</li><li>点击“不更新并启动”</li><li>享受游戏</li></ol><h2 id="问题解答"><a href="#问题解答" class="headerlink" title="问题解答"></a>问题解答</h2><p>Q. 基础包没有MOD A. 属正常现象，基础包只负责让启动器知道有整合包。</p><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a><a href="https://www.mcmod.cn/modpack/version/405.html">更新日志<i class="fa fa-external-link" aria-hidden="true"></i></a></h2><p>请见MCMOD词条的更新日志部分</p><h2 id="反馈-x2F-建议"><a href="#反馈-x2F-建议" class="headerlink" title="反馈&#x2F;建议"></a>反馈&#x2F;建议</h2><p>反馈及建议渠道1(需要登录)：<a href="https://gitea.com/mike-brown8/zombie-survival-modpack/issues/1">此处<i class="fa fa-external-link" aria-hidden="true"></i></a><br>反馈及建议渠道2(无需登录)：<a href="https://forms.office.com/r/B77zgZjp6a">此处<i class="fa fa-external-link" aria-hidden="true"></i></a></p><h2 id="Mods"><a href="#Mods" class="headerlink" title="Mods"></a>Mods</h2><details><summary>点击展开</summary><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br></pre></td><td class="code"><pre><span class="line">architectury-1.30.55.jar</span><br><span class="line">AutoRegLib-1.6-49.jar</span><br><span class="line">cloth-config-4.14.54-forge.jar</span><br><span class="line">CraftTweaker-1.16.5-7.1.2.505.jar</span><br><span class="line">DefaultSettings-1.16.x-2.6.1.jar</span><br><span class="line">ferritecore-2.1.0-forge.jar</span><br><span class="line">ftb-chunks-forge-1605.3.2-build.115.jar</span><br><span class="line">ftb-essentials-1605.1.5-build.32.jar</span><br><span class="line">ftb-library-forge-1605.3.4-build.90.jar</span><br><span class="line">ftb-money-1605.1.3-build.6.jar</span><br><span class="line">ftb-quests-forge-1605.3.6-build.98.jar</span><br><span class="line">ftb-teams-forge-1605.2.3-build.40.jar</span><br><span class="line">invtweaks-1.16.4-1.0.1.jar</span><br><span class="line">item-filters-forge-1605.2.5-build.9.jar</span><br><span class="line">JEITweaker-1.16.5-1.1.0.49.jar</span><br><span class="line">JustEnoughResources-1.16.5-0.12.1.133.jar</span><br><span class="line">kotlinforforge-1.17.0-obf.jar</span><br><span class="line">LibVulpes-1.16.5-1.0.2-31-universal.jar</span><br><span class="line">LibX-1.16.3-1.0.76.jar</span><br><span class="line">light-overlay-5.8.1.jar</span><br><span class="line">moreminecarts-1.3.15.jar</span><br><span class="line">obfuscate-0.6.2-1.16.3.jar</span><br><span class="line">OptiFine_1.16.5_HD_U_G8.jar</span><br><span class="line">Placebo-1.16.5-4.6.1.jar</span><br><span class="line">questsadditions-1.16-1.2.0.jar</span><br><span class="line">topaddons-1.16.5-2.2.0-beta.jar</span><br><span class="line">[AI改进] AI-Improvements-1.16.5-0.4.0.jar</span><br><span class="line">[JEI物品管理器] jei-1.16.5-7.7.1.152.jar</span><br><span class="line">[JEI进度] JustEnoughAdvancements-1.16.5-1.0.2.jar</span><br><span class="line">[JER拓展] JER-Integration-1.1.1.jar</span><br><span class="line">[Minecraft地球自转／真实昼夜循环] B3M-1.16.4-02.jar</span><br><span class="line">[MrCrayfish 的家具] cfm-7.0.0pre22-1.16.3.jar</span><br><span class="line">[MrCrayfish的枪] cgm-1.1.0-1.16.5.jar</span><br><span class="line">[MrCrayfish的背包] backpacked-2.1.1-1.16.5.jar</span><br><span class="line">[MrCrayfish的载具] vehicle-mod-0.45.2-1.16.3.jar</span><br><span class="line">[六边形地貌 2] hexlands-forge-1.16.5-1.1.2.jar</span><br><span class="line">[区块加载动画] ChunkAnimator-1.16.5-1.2.4.jar</span><br><span class="line">[喷溅牛奶] splash_milk-1.16.5-1.0.1.jar</span><br><span class="line">[夸克-奇思妙想] QuarkOddities-1.16.3.jar</span><br><span class="line">[夸克] Quark-r2.4-322.jar</span><br><span class="line">[实体渲染机制优化] entityculling-forge-mc1.16.5-1.5.0.jar</span><br><span class="line">[属性修复] AttributeFix-1.16.5-10.1.3.jar</span><br><span class="line">[崩溃优化] notenoughcrashes-4.1.4+1.16.5-forge.jar</span><br><span class="line">[工作台性能优化] FastWorkbench-1.16.5-4.6.1.jar</span><br><span class="line">[应用能源2] appliedenergistics2-8.4.7.jar</span><br><span class="line">[开放式加载] OpenLoader-1.16.5-9.0.3.jar</span><br><span class="line">[我的世界铁路] MTR-forge-1.16.5-3.0.0-beta-8.jar</span><br><span class="line">[极简血量显示] Neat 1.7-27.jar</span><br><span class="line">[树叶快速腐烂] FastLeafDecay-v25.2.jar</span><br><span class="line">[检测器] theoneprobe-1.16-3.1.5.jar</span><br><span class="line">[模组目录] catalogue-1.5.0-1.16.5.jar</span><br><span class="line">[流畅加载] smoothboot-forge-1.16.4-1.2.2.jar</span><br><span class="line">[游戏内输入法] IngameIME-forge-1.16.5-1.6.3.jar</span><br><span class="line">[熔炉性能优化] FastFurnace-1.16.5-4.5.0.jar</span><br><span class="line">[矿石挖掘] OreExcavation-1.8.157.jar</span><br><span class="line">[等价交换重制版] ProjectE-1.16.5-PE1.0.1B.jar</span><br><span class="line">[精致存储] refinedstorage-1.9.17.jar</span><br><span class="line">[经典状态条] classicbar-4.1.0-1.16.5.jar</span><br><span class="line">[经验机制改革] Clumps-6.0.0.28.jar</span><br><span class="line">[自动汉化更新] i18nupdatemod-1.16.5-2.0.3.jar</span><br><span class="line">[自定义NPC] CustomNPCs-1.16.5.20220226.jar</span><br><span class="line">[自定义初始装备] CustomStartingGear-1.16.5-2.0.3-universal.jar</span><br><span class="line">[通用拼音搜索] JustEnoughCharacters-1.16.4-4.3.2.jar</span><br><span class="line">[通用机械] Mekanism-1.16.5-10.1.2.457.jar</span><br><span class="line">[通用机械发电机] MekanismGenerators-1.16.5-10.1.2.457.jar</span><br><span class="line">[配置界面] configured-1.5.1-1.16.5.jar</span><br><span class="line">[静谧四季／季节] SereneSeasons-1.16.5-4.0.1.124-universal.jar</span><br></pre></td></tr></table></figure></details>注：本整合包包含一个整合包专用模组(mzs)，该模组具有部分魔改功能，并且与剧情相衔接，故不建议将该模组用于其他整合包，否则可能出现一些意想不到的问题。<p>链接：<a href="https://mike-brown8.github.io/zombie-survival-mod/">MZS模组官网</a></p>]]></content>
     
@@ -119,7 +119,7 @@
     <link href="https://mike-brown8.github.io/2021/12-14/bloghlper/"/>
     <id>https://mike-brown8.github.io/2021/12-14/bloghlper/</id>
     <published>2021-12-14T06:21:05.000Z</published>
-    <updated>2023-01-18T03:30:20.543Z</updated>
+    <updated>2023-02-03T03:28:21.677Z</updated>
     
     <content type="html"><![CDATA[<p>因为觉得备份博客太麻烦，花两个小时做了这个。</p><span id="more"></span><p>博客GUI工具，方便的管理Hexo博客和备份到hexo分支<br>截图：<br><img src="https://s2.loli.net/2021/12/14/1Fit6J3uex9bpTG.png" alt="image.png"><br>初次备份教程请<a href="https://www.jianshu.com/p/57b5a384f234">点击此处</a><br>本软件不会更新，下载请见<a href="https://github.com/mike-brown8/mike-brown8.github.io/releases/tag/Hexo%E5%8D%9A%E5%AE%A2GUI%E5%B7%A5%E5%85%B7">Release</a></p>]]></content>
     
@@ -140,7 +140,7 @@
     <link href="https://mike-brown8.github.io/2021/08-20/Cookie/"/>
     <id>https://mike-brown8.github.io/2021/08-20/Cookie/</id>
     <published>2021-08-20T16:00:00.000Z</published>
-    <updated>2023-01-18T03:30:20.543Z</updated>
+    <updated>2023-02-03T03:28:21.677Z</updated>
     
     <content type="html"><![CDATA[<p>曲奇做法</p><span id="more"></span><h4 id="原料"><a href="#原料" class="headerlink" title="原料"></a>原料</h4><hr><h5 id="主料："><a href="#主料：" class="headerlink" title="主料："></a>主料：</h5><ul><li>220g黄油</li><li>440g低筋面粉</li></ul><h5 id="辅料："><a href="#辅料：" class="headerlink" title="辅料："></a>辅料：</h5><ul><li>100g糖粉 4g盐 200g淡奶油</li></ul><h4 id="做法"><a href="#做法" class="headerlink" title="做法"></a>做法</h4><hr><p>1.黄油室温软化（图为蒸化），加入糖粉</p><p><img src="https://st-cn.meishij.net/rs/208/102/1025708/n1025708_155237853372333.jpg" alt="Step1" title="第1步图"></p><p>2.将软化的黄油和糖粉用打蛋器打到蓬松</p><p><img src="https://st-cn.meishij.net/rs/208/102/1025708/n1025708_155237853576987.jpg" alt="Step2" title="第2步图"></p><p>3.加入淡奶油</p><p><img src="https://st-cn.meishij.net/rs/208/102/1025708/n1025708_155237853668820.jpg" alt="Step3" title="第3步图"></p><p>4.加入低筋面粉、盐</p><p><img src="https://st-cn.meishij.net/rs/208/102/1025708/n1025708_155237853780728.jpg" alt="Step4" title="第4步图"></p><p>5.用刮刀翻拌成无干粉颗粒的状态</p><p><img src="https://st-cn.meishij.net/rs/208/102/1025708/n1025708_155237853815845.jpg" alt="Step5" title="第5步图"></p><p>6.曲奇枪按两次挤出来（这时候可以160度预热烤箱）</p><p><img src="https://st-cn.meishij.net/rs/208/102/1025708/n1025708_155237854543939.jpg" alt="Step6" title="第6步图"></p><p>7.将曲奇分次放入160度预热好的烤箱，中层，烤15分钟，表面微微上色即可</p><ul><li>上下火+风扇<br><img src="https://st-cn.meishij.net/rs/208/102/1025708/n1025708_155237854932821.jpg" alt="Step7" title="第7步图"></li></ul><hr><h4 id="技巧"><a href="#技巧" class="headerlink" title="技巧"></a>技巧</h4><ol><li>冬天气温比较低，打好的面糊要放在温暖的地方才好挤，如果变硬了，放在烤箱里用30度的温度烤10分钟左右就会回温。金龙鱼糕点用小麦粉，粉质细腻，口感顺滑，带着微微的麦香味，做成点心特别好吃。</li><li>天气冷，黄油融化也不会影响挤曲奇，如果是夏天，天气热的话，就不容易成功了哦，要注意软化的温度。</li><li>这个配方软硬适中，特别适合用裱花袋挤曲奇了，不妨试试。</li></ol><hr><blockquote><h4 id="本菜谱来自-美食杰-，有删改"><a href="#本菜谱来自-美食杰-，有删改" class="headerlink" title="本菜谱来自 美食杰 ，有删改"></a>本菜谱来自 <a href="http://www.meishij.net/zuofa/quqi_12.html">美食杰</a> ，有删改</h4><h4 id="原作者：美美家的厨房"><a href="#原作者：美美家的厨房" class="headerlink" title="原作者：美美家的厨房"></a>原作者：<a href="https://i.meishi.cc/user.php?id=1025708&t=recipe">美美家的厨房</a></h4></blockquote>]]></content>
     
@@ -161,7 +161,7 @@
     <link href="https://mike-brown8.github.io/2021/08-15/VIPs_MGR_2.2.0.2013/"/>
     <id>https://mike-brown8.github.io/2021/08-15/VIPs_MGR_2.2.0.2013/</id>
     <published>2021-08-15T16:00:00.000Z</published>
-    <updated>2023-01-18T03:30:20.543Z</updated>
+    <updated>2023-02-03T03:28:21.677Z</updated>
     
     <content type="html"><![CDATA[<h2 id="会员管理系统-2-2-0-2013更新"><a href="#会员管理系统-2-2-0-2013更新" class="headerlink" title="会员管理系统 2.2.0.2013更新"></a>会员管理系统 2.2.0.2013更新</h2><p>详见 <em><strong><a href="https://github.com/mike-brown8/VIP_Manager/releases/latest">Release</a></strong></em> 和 <em><strong><a href="https://mike-brown8.github.io/VIP_Manager/">项目主页</a></strong></em></p><h4 id="更新说明-Update-Note"><a href="#更新说明-Update-Note" class="headerlink" title="更新说明 Update Note"></a>更新说明 Update Note</h4><p>添加双屏幕（一个对操作员，一个对客户）<br>#3 (Issues)修复“窗口未载入”故障</p><h4 id="即将到来-Coming-Soon"><a href="#即将到来-Coming-Soon" class="headerlink" title="即将到来 Coming Soon"></a>即将到来 Coming Soon</h4><p>服务端、客户端分离</p><h4 id="已知问题-Known-Issues"><a href="#已知问题-Known-Issues" class="headerlink" title="已知问题 Known Issues"></a>已知问题 Known Issues</h4><p>#1 (Issues)有时无法读到数据条目，重启面板（Esc）即可</p>]]></content>
     
@@ -186,7 +186,7 @@
     <link href="https://mike-brown8.github.io/2021/07-31/VIP_Manager/"/>
     <id>https://mike-brown8.github.io/2021/07-31/VIP_Manager/</id>
     <published>2021-07-31T16:00:00.000Z</published>
-    <updated>2023-01-18T03:30:20.543Z</updated>
+    <updated>2023-02-03T03:28:21.677Z</updated>
     
     <content type="html"><![CDATA[<h2 id="会员管理系统"><a href="#会员管理系统" class="headerlink" title="会员管理系统"></a>会员管理系统</h2><ul><li>软件已经发布，详见 <a href="https://mike-brown8.github.io/VIP_Manager/">本存储库</a></li></ul>]]></content>
     
@@ -207,7 +207,7 @@
     <link href="https://mike-brown8.github.io/2021/07-21/5Chess/"/>
     <id>https://mike-brown8.github.io/2021/07-21/5Chess/</id>
     <published>2021-07-21T16:00:00.000Z</published>
-    <updated>2023-01-18T03:30:20.543Z</updated>
+    <updated>2023-02-03T03:28:21.677Z</updated>
     
     <content type="html"><![CDATA[<h1 id="棋盘程序"><a href="#棋盘程序" class="headerlink" title="棋盘程序"></a>棋盘程序</h1><hr><ul><li>棋盘程序允许你使用一台电脑作为非专用主机，其他（甚至同一台）电脑使用专用软件连接棋盘，并同他人对弈。</li></ul><p>优势：</p><ol><li>极小运行内存占用（创建棋盘<code>2.5MB</code>，正常使用<code>1.6MB</code>）</li><li>极小储存空间占用（服务端 <code>754KB</code>  配置文件(17x17) <code>2.25KB</code>  客户端 <code>776KB</code>）</li><li>一键清空+开局，不卡顿，不死机。</li><li>完全免费，无广告，无病毒，无捆绑</li></ol><h2 id="下载地址："><a href="#下载地址：" class="headerlink" title="下载地址："></a>下载地址：</h2><h3 id="百度网盘-提取码：5p42"><a href="#百度网盘-提取码：5p42" class="headerlink" title="百度网盘 (提取码：5p42)"></a><a href="https://pan.baidu.com/s/1fWdPJcaUHlgugnI9MgAJfA#5p42">百度网盘</a> (提取码：5p42)</h3><h3 id="OneDrive-With-code-Password-5p42"><a href="#OneDrive-With-code-Password-5p42" class="headerlink" title="OneDrive (With code, Password:5p42)"></a><a href="https://1drv.ms/u/s!AhI9oH6jEjxKgdFz-gQmhGDVSy_eFg?e=8HcXoY">OneDrive</a> (With code, Password:5p42)</h3><ul><li>注：<ol><li>端口<code>19730</code></li><li>安卓端需要单独下载<code>.apk</code>安装包</li></ol></li></ul>]]></content>
     
@@ -228,7 +228,7 @@
     <link href="https://mike-brown8.github.io/2021/07-15/0001/"/>
     <id>https://mike-brown8.github.io/2021/07-15/0001/</id>
     <published>2021-07-15T16:00:00.000Z</published>
-    <updated>2023-01-18T03:30:20.543Z</updated>
+    <updated>2023-02-03T03:28:21.677Z</updated>
     
     <content type="html"><![CDATA[<h1 id="MD格式博客编写工具"><a href="#MD格式博客编写工具" class="headerlink" title="MD格式博客编写工具"></a>MD格式博客编写工具</h1><blockquote><p>MD Blog Writing Tool</p></blockquote><p>为您方便的编写MD博客</p><p>工具版本1.0</p><p>下载地址</p><ul><li><a href="https://pan.baidu.com/s/1YfIYUTABYNYPhWN7WHEiQQ">百度网盘</a> 密码：7d59<br><br><br><a href="https://imgtu.com/i/WKRi4S"><img src="https://z3.ax1x.com/2021/07/16/WKRi4S.md.png" alt="WKRi4S.md.png"></a></li></ul>]]></content>
     
@@ -249,7 +249,7 @@
     <link href="https://mike-brown8.github.io/2021/07-14/Test001/"/>
     <id>https://mike-brown8.github.io/2021/07-14/Test001/</id>
     <published>2021-07-14T16:00:00.000Z</published>
-    <updated>2023-01-18T03:30:20.543Z</updated>
+    <updated>2023-02-03T03:28:21.677Z</updated>
     
     <content type="html"><![CDATA[<ul><li>这是测试<blockquote><p>这是编写器的测试Blog</p></blockquote></li></ul><ol><li>文章标题：测试01</li><li>文章标签：测试文章</li><li>文章金句：测试咯!<br>2333</li></ol><blockquote><p>评论已禁用</p></blockquote>]]></content>
     
