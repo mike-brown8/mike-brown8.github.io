@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '服务器状态',
+  SiteName: '服务状态',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
