@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Markdown 转图片</title>
+  <!-- 引入 EasyMDE 样式 -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.css">
+  <!-- 引入 FontAwesome 图标库 -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/js/all.min.js">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f0f2f5;
+      display: flex;
+      justify-content: center;
+      padding: 20px;
+    }
+    .container {
+      max-width: 800px;
+      width: 100%;
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    button {
+      display: block;
+      margin: 20px auto 0 auto;
+      padding: 10px 20px;
+      font-size: 16px;
+      border: none;
+      border-radius: 4px;
+      background: #007bff;
+      color: #fff;
+      cursor: pointer;
+    }
+    button:disabled {
+      background: #aaa;
+      cursor: not-allowed;
+    }
+    #spinner {
+      margin: 20px auto;
+      display: none;
+      width: 24px;
+      height: 24px;
+    }
+    .spinner {
+      border: 4px solid #f3f3f3;
+      border-top: 4px solid #007bff;
+      border-radius: 50%;
+      width: 24px;
+      height: 24px;
+      animation: spin 1s linear infinite;
+      margin: auto;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg);}
+      100% { transform: rotate(360deg);}
+    }
+    #resultImage {
+      margin-top: 20px;
+      max-width: 100%;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      display: none;
+    }
+    #downloadButton {
+      display: none;
+      margin: 20px auto 0 auto;
+      padding: 10px 20px;
+      font-size: 16px;
+      border: none;
+      border-radius: 4px;
+      background: #28a745;
+      color: #fff;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Markdown 转图片</h1>
+    <!-- Markdown 编辑器文本域 -->
+    <textarea id="markdown"></textarea>
+    <!-- 转换按钮 -->
+    <button id="convertButton">生成图片</button>
+    <!-- 加载动画 -->
+    <div id="spinner">
+      <div class="spinner"></div>
+    </div>
+    <!-- 显示返回图片 -->
+    <img id="resultImage" alt="返回的图片">
+    <!-- 下载按钮 -->
+    <button id="downloadButton">下载图片</button>
+  </div>
+
+  <!-- 引入 EasyMDE 脚本 -->
+  <script src="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.js"></script>
+  <!-- 引入 html2canvas 库 -->
+  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+  <script>
+    // 初始化 EasyMDE 编辑器
+    var easyMDE = new EasyMDE({
+      element: document.getElementById("markdown"),
+      spellChecker: false,
+      autosave: {
+        enabled: false
+      },
+      autoDownloadFontAwesome: false // 禁用自动下载 FontAwesome
+    });
+
+    document.getElementById("convertButton").addEventListener("click", function() {
+      var button = this;
+      var spinner = document.getElementById("spinner");
+      var resultImage = document.getElementById("resultImage");
+      var downloadButton = document.getElementById("downloadButton");
+
+      // 显示加载动画，禁用按钮，同时隐藏图片和下载按钮
+      spinner.style.display = "block";
+      button.disabled = true;
+      resultImage.style.display = "none";
+      downloadButton.style.display = "none";
+
+      // 获取编辑器中的原始 Markdown 内容
+      var markdownText = easyMDE.value();
+      // 构造请求 URL（对内容进行编码）
+      var url = "https://readpo.com/p/" + encodeURIComponent(markdownText);
+
+      // 为图片加载完成或出错添加事件监听
+      resultImage.onload = function() {
+        spinner.style.display = "none";
+        resultImage.style.display = "block";
+        downloadButton.style.display = "block";
+        button.disabled = false;
+      };
+      resultImage.onerror = function() {
+        spinner.style.display = "none";
+        button.disabled = false;
+        alert("图片加载失败，请检查输入内容或网络连接。");
+      };
+
+      // 开始加载图片
+      resultImage.src = url;
+    });
+
+    document.getElementById("downloadButton").addEventListener("click", function() {
+      var resultImage = document.getElementById("resultImage");
+      if (resultImage.src) {
+        // 使用 html2canvas 将图片转换为 PNG 并下载
+        html2canvas(resultImage).then(function(canvas) {
+          var link = document.createElement("a");
+          link.href = canvas.toDataURL("image/png");
+          link.download = "markdown_image.png";
+          link.click();
+        });
+      }
+    });
+  </script>
+</body>
+</html>
