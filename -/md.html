@@ -6,8 +6,6 @@
   <title>Markdown 转图片</title>
   <!-- 引入 EasyMDE 样式 -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.css">
-  <!-- 引入 FontAwesome 图标库 -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/js/all.min.js">
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -69,17 +67,6 @@
       border-radius: 4px;
       display: none;
     }
-    #downloadButton {
-      display: none;
-      margin: 20px auto 0 auto;
-      padding: 10px 20px;
-      font-size: 16px;
-      border: none;
-      border-radius: 4px;
-      background: #28a745;
-      color: #fff;
-      cursor: pointer;
-    }
   </style>
 </head>
 <body>
@@ -95,14 +82,12 @@
     </div>
     <!-- 显示返回图片 -->
     <img id="resultImage" alt="返回的图片">
-    <!-- 下载按钮 -->
-    <button id="downloadButton">下载图片</button>
+    <!-- 下载按钮，初始隐藏 -->
+    <button id="downloadButton" style="display:none">下载图片</button>
   </div>
 
   <!-- 引入 EasyMDE 脚本 -->
   <script src="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.js"></script>
-  <!-- 引入 html2canvas 库 -->
-  <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
   <script>
     // 初始化 EasyMDE 编辑器
     var easyMDE = new EasyMDE({
@@ -110,8 +95,7 @@
       spellChecker: false,
       autosave: {
         enabled: false
-      },
-      autoDownloadFontAwesome: false // 禁用自动下载 FontAwesome
+      }
     });
 
     document.getElementById("convertButton").addEventListener("click", function() {
@@ -135,6 +119,7 @@
       resultImage.onload = function() {
         spinner.style.display = "none";
         resultImage.style.display = "block";
+        // 显示下载按钮
         downloadButton.style.display = "block";
         button.disabled = false;
       };
@@ -150,15 +135,13 @@
 
     document.getElementById("downloadButton").addEventListener("click", function() {
       var resultImage = document.getElementById("resultImage");
-      if (resultImage.src) {
-        // 使用 html2canvas 将图片转换为 PNG 并下载
-        html2canvas(resultImage).then(function(canvas) {
-          var link = document.createElement("a");
-          link.href = canvas.toDataURL("image/png");
-          link.download = "markdown_image.png";
-          link.click();
-        });
-      }
+      // 创建一个隐藏的 <a> 元素
+      var link = document.createElement('a');
+      link.href = resultImage.src;
+      link.download = 'markdown_image.png'; // 设置下载文件的默认名称
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
     });
   </script>
 </body>
